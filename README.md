@@ -1,4 +1,4 @@
-*This project is still ongoing and will have more additions later on* 
+*Future scope* 
 
 
 To add
